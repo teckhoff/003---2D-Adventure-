@@ -34,3 +34,5 @@ This has been a really fun project to work on.
 
 It is playable at: http://teckhoff.s3-website-us-east-1.amazonaws.com/
 
+To win, you have to defeat all 15 enemies. Three new enemies will spawn in the spawn area after the 12 enemies on the other screens have been defeated.
+
